@@ -1,12 +1,12 @@
 
 # ROS2 Publisher–Subscriber Demo (WSL/Linux)
 
-## 🎯 Objective
+##  Objective
 This project demonstrates a basic ROS2 communication system using a publisher–subscriber architecture in a Linux (WSL) environment.
 
 ---
 
-## ⚙️ Features
+##  Features
 - ROS2 node execution (talker & listener)
 - Real-time message publishing and subscription
 - Linux-based robotics development (WSL2 Ubuntu)
@@ -14,7 +14,7 @@ This project demonstrates a basic ROS2 communication system using a publisher–
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 - ROS2 communication model
 - Publisher–Subscriber architecture
 - Node-based distributed systems
@@ -22,15 +22,15 @@ This project demonstrates a basic ROS2 communication system using a publisher–
 
 ---
 
-## 📸 Output Evidence
+##  Output Evidence
 
 ### Talker Node
-![Talker](screenshots/talker.png)
+![Talker](screenshots/talker.jpg)
 ### Listener Node
-![Listener](screenshots/listener.png)
+![Listener](screenshots/listener.jpg)
 
 ### ROS Graph
-![Graph](screenshots/rqt_graph.png)
+![Graph](screenshots/rqt_graph.jpg)
 
 ---
 
