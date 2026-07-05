@@ -26,7 +26,6 @@ This project demonstrates a basic ROS2 communication system using a publisher–
 
 ### Talker Node
 ![Talker](screenshots/talker.png)
-
 ### Listener Node
 ![Listener](screenshots/listener.png)
 
